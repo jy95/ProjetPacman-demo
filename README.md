@@ -13,3 +13,10 @@ During the demo, you are asked to show us the following scenarios (players contr
 - (Optionnal) you can show a 6th demo if there is still time, to show something interesting you have done like additional human player, new functionality,...
 
 Each maps, for the mandatory scenarios should have between 2 and 4 spawns respectively for ghosts and pacmans, between 4 and 8 bonus points.
+
+-----------------------------
+
+Pour runner (dans le bon dossier demo) : 
+```
+ozengine Main.ozf
+```
